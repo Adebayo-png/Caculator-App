@@ -1,4 +1,4 @@
-window.onload = function () {
+onload = function () {
   const loader = document.getElementById("loader");
   const content = document.getElementById("content");
 
