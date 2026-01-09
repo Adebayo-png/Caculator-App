@@ -7,7 +7,7 @@ onload = function () {
   setTimeout(() => {
     loader.style.display = "none";
     content.style.display = "block";
-  }, 1000);
+  }, 10000);
 }
   
 const display = document.getElementById("display");
